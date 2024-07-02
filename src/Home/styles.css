@@ -1,0 +1,27 @@
+.container-home{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 75vh;
+   font-style: normal;
+   font-variation-settings: "wdth" 100;
+   font-size: 20px;
+}
+
+.container-home img{
+   max-height: 400px;
+   margin: 0 5%;
+}
+
+.div-right{
+   margin-top: 5%;
+   margin-right: 5%;
+   padding: 20px; 
+   border-radius: 10px; 
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+   text-align: center; 
+}
+
+.div-right h2{
+   font-size: 5px;
+}
